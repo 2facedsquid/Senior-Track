@@ -112,7 +112,7 @@ Let's start by setting up Hardhat inside the `upgradeable-contracts` directory.
 ```bash
 cd upgradeable-contracts
 npm init --yes
-npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
+npm install --save-dev hardhat@2.12.0 @nomicfoundation/hardhat-toolbox@2.0.2
 npx hardhat
 ```
 
